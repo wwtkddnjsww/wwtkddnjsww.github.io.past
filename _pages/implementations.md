@@ -6,7 +6,7 @@ toc_sticky: True
 toc_label: "Categories"
 ---
 
-[Back]
+[Back] to activities
 
 [Back]:/activities/
 
