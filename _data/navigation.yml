@@ -1,0 +1,21 @@
+# main links
+main:
+#  - title: "Home"
+#    url:"/"
+  - title: "Home"
+    url: /
+  - title: "Publication"
+    url: /publication/
+  - title: "Activities"
+    url: /activities/
+  - title: "Education"
+    url: /education/
+  - title: "Postings"
+    url: /posting/
+  - title: "Misc."
+    url: /misc/
+
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
