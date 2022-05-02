@@ -7,7 +7,7 @@ toc_label: "MYSELF"
 ---
   
 <br/>    
-<span style="font-size:80%">  My research has been mainly focused on computer network with artificial intelligence. In addition, I am also interested in wireless networks, artificial intelligence, and Internet of Things (IoT).
+<span style="font-size:80%">  My research has been mainly focused on networked systems with artificial intelligence. I am also interested in other topics in computer networks such as 5G core network, network function virtualization (NFV), routing algorithms, and internet of things (IoT).
 </span>
 
  
