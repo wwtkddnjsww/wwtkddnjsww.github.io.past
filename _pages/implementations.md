@@ -75,9 +75,9 @@ CellsToAddMod is sent to the UE and they use this value when they conduct the ha
 
 
 
-<span style="font-size:80%"> 4. Host Identity Protocol and Partially DMM (MAD-PMIPv6) integrated testbed, <br/> 3. NS-3 Tap Bridge and MAD-PMIPv6 integrated Testbed, <br/> and 2. NS-3 Simulation module for DMM based on PMIPv6 <br/> has a security problem due to its security clearance.
+<span style="font-size:80%"> 4. Host Identity Protocol and Partially DMM (MAD-PMIPv6) integrated testbed, <br/> 3. NS-3 Tap Bridge and MAD-PMIPv6 integrated Testbed, <br/> and 2. NS-3 Simulation module for DMM based on PMIPv6 <br/> has a military secret due to its security clearance.
 
-<span style="font-size:80%"> I am sorry for not opening it.
+<span style="font-size:80%"> I am sorry for not opening them.
 
 ### 1. Static Router with GUI
 
