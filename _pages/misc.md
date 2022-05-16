@@ -10,6 +10,6 @@ Hobby
 <br/>
 
 
-{% include figure image_path="/assets/Misc/Cycling.JPG" alt="this is a placeholder image" caption="" %}
+{% include figure image_path="/assets/Misc/Cycling.JPG" alt="this is a placeholder image" caption="Taking photo at Maltijae, Korea" %}
 
 <span style="font-size:80%">I would cycling on weekends. </span>
