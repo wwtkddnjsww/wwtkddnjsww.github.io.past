@@ -7,7 +7,7 @@ toc_label: "Categories"
 ---
 
 
-<span style="font-size:90%"> In this category, the implementations and research projects are provided.
+<span style="font-size:90%"> In this category, the implementations and research projects are provided. Please click the links under below.
 
 
 ### [Implementations]
