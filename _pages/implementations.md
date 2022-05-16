@@ -20,7 +20,7 @@ toc_label: "Categories"
 
 {% include figure image_path="/assets/Implementations/SON/System Model.pdf" alt="this is a placeholder image" caption="Fig. 6-1. System Model." %}
 
-<span style="font-size:80%"> In this system, we build the interface for SON, especially aims to adjust parameter (CellsToAddMod) based on PrbUsage.
+<span style="font-size:80%"> In this system, we build the interface for SON, which especially aims to adjust parameter (CellsToAddMod) based on PrbUsage.
 SON server \(NS-3 Gym Part) determines the CellsToAddMod with a certain algorithm, and NetSim part periodically updates the value (i.e., PrbUsage) used to SON server.
 CellsToAddMod is sent to the UE and they use this value when they conduct the handover (A3 RSRP Handover).
 
