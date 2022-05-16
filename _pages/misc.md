@@ -9,4 +9,7 @@ toc_label: "Categories"
 Hobby
 <br/>
 
+
+{% include figure image_path="/assets/Misc/Cycling.JPG" alt="this is a placeholder image" caption="" %}
+
 <span style="font-size:80%">I would cycling on weekends. </span>
